@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seifeddine ABIDI</h1>
+
 <h2># 💫 About Me:</h1>
 🔭 I’m currently working on deploying a Spring Boot application using Jenkins and Docker.<br>👯 I’m looking to collaborate on cloud infrastructure projects and DevOps pipelines.<br>🤝 I’m looking for help with advanced Jenkins pipelines and Kubernetes.<br>🌱 I’m currently learning Splunk .<br>💬 Ask me about cloud infrastructure, CI/CD pipelines, and containerization.<br>⚡ Fun fact: I love solving complex problems and automating repetitive tasks to improve efficiency.
 
